@@ -1,0 +1,14 @@
+p {
+   color: blue;
+   border-style: double;
+   text-align: center;
+   padding: 20px;
+}
+
+a{
+    color:blue;
+}
+ol{
+    background: #ff9999;
+    padding:20px;
+}
